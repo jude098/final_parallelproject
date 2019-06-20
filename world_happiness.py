@@ -50,6 +50,7 @@ plt.show()
 
 #heatmap
 #seeing the variables displayed
+#the darker the square, the stronger the relationship between the two variables is
 
 # get correlation matrix
 corr = data.corr()
