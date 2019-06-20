@@ -35,6 +35,8 @@ The data (world happiness report) that we have is a report that states the level
 
 In this case, I focused on predicting the correlation between the ladder (one's life satisfaction) and social support and ended up seeing quite a bit of analysis.
 
+I'm very happy that the data were clear, cleaned already, which facilitated my task....greatly.
+
 source: https://www.kaggle.com/PromptCloudHQ/world-happiness-report-2019
 
 ### Methods
@@ -61,10 +63,9 @@ I decided to approach this problem with the same technics we saw in class, namel
 - Looking at the correlation between variables was intesresting as well in the sense that we could re-direct the question, ie instead of taking machine learning to predict the correlation between Corruption and Negative affect (negative emotions), like I wanted to at first, I changed the question to see the correlation between the social support and happiness (life satisfaction/ladder)
 
 ### Discussion
-Brief (no more than 1-2 paragraph) description about what you did. Include:
 
-- interpretation of whether your method "solved" the problem
-- suggested next step that could make it better.
+- to be continued.
+- The suggested next step are: resolving python errors in the machine learning code, which will allow me to properly train the data (x, y), using either the Gaussian Naive Bayes/Random Forests classifier/ml model, seeing the accuracy of the model and then dicusiing about the results.
 
 ### References
 Class' notes from previous classes
